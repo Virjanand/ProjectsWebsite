@@ -15,7 +15,7 @@
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
 
   <!-- Custom CSS -->
-  <link href="assets/stylesheets/simple-sidebar.css" rel="stylesheet">
+  <link href="../../assets/stylesheets/simple-sidebar.css" rel="stylesheet">
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -25,7 +25,7 @@
   <![endif]-->
 
   <!-- Own CSS -->
-  <link rel="stylesheet" href="assets/stylesheets/main.css">
+  <link rel="stylesheet" href="../../assets/stylesheets/main.css">
 
 </head>
 <body>
@@ -35,7 +35,7 @@
     <header class="container group">
       <section>
         <h1 class="logo">
-          <a href="index.html">Vir's Projects</a>
+          <a href="index.php">Vir's Projects</a>
         </h1>
         <a href="#menu-toggle" class="btn btn-default glyphicon
           glyphicon-menu-hamburger glyphicon-large" id="menu-toggle"></a>
@@ -44,105 +44,8 @@
       <h3 class="tagline">Follow the wild plans I am concocting!</h3>
     </header>
 
-    <aside class="aside" id="sidebar-wrapper">
-      <nav class="primary-nav">
-        <img class="panda-image" src="images/panda.jpg" />
-        <ul>
-          <li>
-            <a href="index.html">Home</a>
-          </li>
-          <li>
-            <a href="Projects/ProjectsWebsite/ProjectsWebsite.html">
-              Projects Website
-            </a>
-          </li>
-          <li>
-            <a href="Projects/LearningAndroid/LearningAndroid.html">
-              Android
-            </a>
-          </li>
-          <li>
-            <a href="Projects/LearningJava/LearningJava.html">
-              Java
-            </a>
-          </li>
-          <li>
-            <a href="Projects/LearningUnity3D/LearningUnity3D.html">
-              Unity 3D
-            </a>
-          </li>
-          <li>
-            <a href="Projects/LearningUnreal/LearningUnreal.html">
-              Unreal
-            </a>
-          </li>
-          <li>
-            <a href="Projects/LearningJavascript/LearningJavascript.html">
-                Javascript
-            </a>
-          </li>
-          <li>
-            <a href="Projects/LearningPython/LearningPython.html">
-                Python
-            </a>
-          </li>
-          <li>
-            <a href="Projects/LearningRubyOnRails/LearningRubyOnRails.html">
-                Ruby on Rails
-            </a>
-          </li>
-          <li>
-            <a href="Projects/LearningWebdevelopment/LearningWebdevelopment.html">
-                Webdevelopment
-            </a>
-          </li>
-          <li>
-            <a href="Projects/LearningGeneralProgramming/LearningGeneralProgramming.html">
-                General Programming
-            </a>
-          </li>
-          <li>
-            <a href="Projects/LearningHTMLAndCSS/LearningHTMLAndCSS.html">
-                HTML&amp;CSS
-            </a>
-          </li>
-          <li>
-            <a href="Projects/LearningiOSAppsSwift/LearningiOSAppsSwift.html">
-                iOS apps/Swift
-            </a>
-          </li>
-          <li>
-            <a href="Projects/RelearningMendix/RelearningMendix.html">
-              Mendix
-            </a>
-          </li>
-          <li>
-            <a href="me.html">Me</a>
-          </li>
-          <li>
-            <a href="CV.html">CV</a>
-          </li>
-          <li>
-            <a href="https://twitter.com/PandaVirjanand"
-              class="twitter-follow-button"
-              data-show-count="false" data-dnt="true">Follow @PandaVirjanand
-            </a>
-          </li>
-          <li>
-            <script>!function(d,s,id)
-              {
-                var js,fjs=d.getElementsByTagName(s)[0],
-                p=/^http:/.test(d.location)?'http':'https';
-                if(!d.getElementById(id))
-                {js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
-                fjs.parentNode.insertBefore(js,fjs);
-                }
-              }(document, 'script', 'twitter-wjs');
-            </script>
-          </li>
-        </ul>
-      </nav>
-    </aside>
+    <!--Navigation -->
+    <?php include("../../includes/navigation.html");?>
 
     <div class="container">
       <hr />
