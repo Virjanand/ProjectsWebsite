@@ -6,7 +6,7 @@
 
 <body>
   <div id="wrapper">
-    
+
     <!--Content Header -->
     <?php include("../../includes/content_header.html");?>
 
@@ -174,19 +174,8 @@
 
     </div>
 
-    <!-- jQuery -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
-
-    <!-- Bootstrap Core JavaScript -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-
-    <!-- Menu Toggle Script -->
-    <script>
-    $("#menu-toggle").click(function(e) {
-        e.preventDefault();
-        $("#wrapper").toggleClass("toggled");
-    });
-    </script>
+    <!--Javascript -->
+    <?php include("../../includes/javascript_at_bottom.html");?>
 
 </body>
 </html>

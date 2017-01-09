@@ -6,17 +6,9 @@
 
 <body>
   <div id="wrapper">
-    <header class="container group">
-      <section>
-        <h1 class="logo">
-          <a href="../../index.html">Vir's Projects</a>
-        </h1>
-        <a href="#menu-toggle" class="btn btn-default glyphicon
-          glyphicon-menu-hamburger glyphicon-large" id="menu-toggle"></a>
-      </section>
 
-      <h3 class="tagline">Follow the wild plans I am concocting!</h3>
-    </header>
+    <!--Content Header -->
+    <?php include("../../includes/content_header.html");?>
 
     <!--Navigation -->
     <?php include("../../includes/navigation.html");?>
@@ -78,19 +70,8 @@
 
     </div>
 
-    <!-- jQuery -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
-
-    <!-- Bootstrap Core JavaScript -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-
-    <!-- Menu Toggle Script -->
-    <script>
-    $("#menu-toggle").click(function(e) {
-        e.preventDefault();
-        $("#wrapper").toggleClass("toggled");
-    });
-    </script>
+    <!--Javascript -->
+    <?php include("../../includes/javascript_at_bottom.html");?>
 
 </body>
 </html>
