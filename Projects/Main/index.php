@@ -101,6 +101,26 @@
           </p>
         </div>
 
+    <!--Mobile development -->
+        <div class="col-1-2">
+          <h2><a href="mobile.php">
+              Mobile development
+              </a>
+          </h2>
+          <p>Started: Januari 2016 <br />
+            <ul>
+              <li>
+                Android<br />
+                Started: 1 Januari 2016 <br />
+              </li>
+              <li>
+                iOS<br />
+                Started: 1 November 2015 <br />
+              </li>
+            </ul>
+          </p>
+        </div>
+
     </section>
 
   </div>

@@ -17,7 +17,7 @@
 <div class="container">
 
   <!--General Programming -->
-      <div>
+      <div class="col-1-2">
         <h2><a href="../../Projects/LearningGeneralProgramming/LearningGeneralProgramming.php">
             Learning General Programming</a></h2>
         <p>Started: April 2016 <br />
