@@ -37,11 +37,6 @@
         frameborder="0" allowfullscreen></iframe> <br />
       </section>
 
-      <section class="end-note group">
-        I'm learning how to align stuff with CSS! <br />
-        So there is no more need for me to rickroll you
-        <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0">!</a>
-      </section>
     </div>
 
   </div>

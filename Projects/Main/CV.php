@@ -16,52 +16,15 @@
 
     <div class="container">
       <hr />
-      <h2>What kind of person am I?</h2>
-      <p>A friend once told me that he was no longer surprised by things
-         I said, not because he expected me to say what I did, but because
-         now he expects the unexpected from me. I liked that. It's important
-         to me to do things differently. I enjoy surprising people and making
-         myself think about alternative ways and ideas.
-      </p>
-
-      <h2>What can I do?</h2>
+      <h2>Who am I?</h2>
       <p>
         <ul>
-          <li>Learn</li>
-          <li>Teach</li>
-          <li>Think</li>
-          <li>Analyse</li>
-          <li>Solve</li>
-          <li>Reflect</li>
+          <li>Interested in a broad range of subjects</li>
+          <li>Strong desire to perform well</li>
+          <li>Prefer working in a small focussed team</li>
+          <li>Abstract thinker</li>
+          <li>Always trying to improve</li>
         </ul>
-      </p>
-
-      <h2>What do I need to perform optimally?</h2>
-      <p>
-        <ul>
-          <li>Autonomy</li>
-          <li>Input on or shared control over what I should be working on</li>
-          <li>Control over how I work, e.g. some tasks I do best while
-              distracted by watching TV shows or music, others require
-              absolute silence, then some require me to talk to other people</li>
-          <li>Challenging tasks interspersed with quickly completed tasks</li>
-          <li>Colleagues (and supervisors) that try to understand what I say
-              and discuss opposing ideas till resolution</li>
-        </ul>
-      </p>
-
-      <h2>What do I want to do?</h2>
-      <p>
-        Ideally, I would work 3 days in a team of nice and smart people. Then
-        have 4 days to learn and work on my own projects. Every day there should
-        be enough time left to spend in a relaxed atmosphere with my wife
-        and two children. I would prefer not to commute every day, but instead
-        work from home and only travel after rush hour (by public transport) to
-        attend important meetings. Most communication can be done over email or
-        Skype. The work would be part solving difficult problems that require
-        some research and some coding, part thinking about and improving work
-        processes and part building an end product to show off how great the
-        team is.
       </p>
 
       <h2>What jobs have I done?</h2>
