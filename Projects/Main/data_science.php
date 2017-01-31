@@ -17,6 +17,22 @@
 <div class="container">
     <section class="grid">
 
+  <!--Machine learning -->
+    <div class="col-1-2">
+      <h2><a href="../../Projects/MachineLearning/machineLearning.php">
+          Machine learning</a></h2>
+      <p>Started: June 2016 <br />
+        <ul>
+          <li><a href="https://www.coursera.org/learn/machine-learning/home/welcome">
+            Coursera course on machine learning</a> <br />
+            Started: 10 Apr 2016 <br />
+            Finished: 6 Jan 2017
+          </li>
+
+        </ul>
+      </p>
+    </div>
+
   <!--Python -->
     <div class="col-1-2">
       <h2><a href="../../Projects/LearningPython/LearningPython.php">
