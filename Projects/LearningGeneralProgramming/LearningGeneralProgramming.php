@@ -21,7 +21,7 @@
       <li><a href="http://www.ccs.neu.edu/home/matthias/HtDP2e/">
         How to design Programs by Matthias Felleisen et al.</a> <br />
         Started: 23 Apr 2016 <br />
-
+        Paused: December 2016
       </li>
     </ul>
   </p>

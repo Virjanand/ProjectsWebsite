@@ -62,7 +62,7 @@
               <li>
                 Udemy Unreal course<br />
                 Started: 1 Januari 2017 <br />
-                Technologies: C++ &and; Unreal
+                Technologies: C++ &amp; Unreal
               </li>
             </ul>
           </p>

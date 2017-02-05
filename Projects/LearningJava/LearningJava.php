@@ -21,7 +21,7 @@
       <li><a href="https://www.udemy.com/learn-java-by-building-projects/learn/v4/overview">
         Udemy course by Eduonix Learning Solutions</a> <br />
         Started: 13 Apr 2016 <br />
-
+        Paused: September 2016
       </li>
     </ul>
   </p>

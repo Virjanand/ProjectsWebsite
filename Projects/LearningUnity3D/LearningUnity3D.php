@@ -17,6 +17,7 @@
   <!--Learning Unity 3D -->
   <h2>Learning Unity 3D</h2>
   <p>Started: December 2015 <br />
+     Paused: July 2016
     <ul>
       <li><a href="http://unity3d.com/learn/tutorials/projects/procedural-cave-generation-tutorial">
         Cave generator</a> <br />

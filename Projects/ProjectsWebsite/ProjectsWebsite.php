@@ -17,6 +17,7 @@
   <!--Projects Website -->
         <h2>Projects Website</h2>
         <p>Started: January 2016 <br />
+           
           <ul>
             <li><a href="http://virjanand.com">
               Website with projects overview</a><br />

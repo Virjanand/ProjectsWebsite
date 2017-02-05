@@ -18,15 +18,20 @@
   <h2>Learning Python</h2>
   <p>Started: Apr 2016 <br />
     <ul>
-      <li><a href="https://www.codecademy.com/learn/python">
-        Codecademy course on Python</a> <br />
-        Started: 10 Apr 2016 <br />
-        Finished: 10 June 2016
+      <li><a href="https://www.coursera.org/learn/python-data-analysis/home/welcome">
+        'Applied data science with Python' by University of Michigan</a> <br />
+        Started: 1 December 2016 <br />
+
       </li>
       <li><a href="http://learnpythonthehardway.org/book/">
         'Learn Python the Hard Way' by Zed Shaw</a> <br />
         Started: 11 June 2016 <br />
-
+        Paused: September 2016
+      </li>
+      <li><a href="https://www.codecademy.com/learn/python">
+        Codecademy course on Python</a> <br />
+        Started: 10 Apr 2016 <br />
+        Finished: 10 June 2016
       </li>
     </ul>
   </p>

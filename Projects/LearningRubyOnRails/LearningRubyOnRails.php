@@ -21,7 +21,7 @@
       <li><a href="https://www.udemy.com/the-complete-ruby-on-rails-developer-course/learn/v4/overview">
         Udemy course on Ruby on Rails by Mashrur Hossain</a> <br />
         Started: 30 Apr 2016 <br />
-
+        Paused: July 2016
       </li>
     </ul>
   </p>

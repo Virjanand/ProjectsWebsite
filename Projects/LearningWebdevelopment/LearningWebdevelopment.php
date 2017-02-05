@@ -17,11 +17,12 @@
   <!--Learning Webdevelopment-->
   <h2>Learning Webdevelopment</h2>
   <p>Started: December 2015 <br />
+     Finished: December 2016
     <ul>
       <li><a href="https://www.udemy.com/complete-web-developer-course/learn/#/">
         Udemy course by Rob Percival</a> <br />
         Started: 1 January 2016 <br />
-
+        Finished: December 2016
       </li>
     </ul>
   </p>

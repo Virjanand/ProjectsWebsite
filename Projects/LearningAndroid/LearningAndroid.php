@@ -21,7 +21,7 @@
       <li><a href="https://www.udemy.com/the-complete-android-developer-course/learn/#/">
         Udemy course by Rob Percival</a> <br />
         Started: 22 February 2016 <br />
-
+        Paused: June 2016
       </li>
     </ul>
   </p>

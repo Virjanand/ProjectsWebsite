@@ -17,6 +17,7 @@
   <!--Learning iOS apps/Swift -->
   <h2>Learning iOS apps/Swift</h2>
   <p>Started: December 2015 <br />
+     Paused: March 2016
     <ul>
       <li><a href="https://www.udemy.com/the-complete-ios-9-developer-course/learn/#/">
           Udemy course by Rob Percival</a> <br />

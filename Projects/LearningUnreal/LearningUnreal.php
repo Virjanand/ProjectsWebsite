@@ -17,6 +17,7 @@
   <!--Learning Unreal -->
   <h2>Learning Unreal</h2>
   <p>Started: May 2016 <br />
+     Paused: Feb 2017
     <ul>
       <li><a href="https://www.udemy.com/unrealcourse/learn/v4/overview">
         Udemy course by Ben Tristem</a> <br />

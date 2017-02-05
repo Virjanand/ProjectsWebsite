@@ -27,7 +27,8 @@
   </p>
   <!--Specifications -->
         <h3>Specifications</h3>
-
+          Understand the background of machine learning. Determine if it
+          is interesting to continue learning.
         <p>
            <br/>
 
@@ -46,7 +47,7 @@
         <p>
 
           <ul>
-            
+
           </ul>
 
         </p>

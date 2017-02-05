@@ -24,7 +24,7 @@
       <li><a href="http://learn.shayhowe.com/html-css/">
         Learn to code HTML &amp; CSS by Shay Howe</a> <br />
         Started: 27 December 2015 <br />
-
+        Finished: June 2016
       </li>
       <li><a href="https://www.codecademy.com/learn/web">
         Codecademy</a> <br />
