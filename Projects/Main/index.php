@@ -15,10 +15,10 @@
 <?php include("../../includes/navigation.html");?>
 
 <div class="container">
-    <section class="grid">
+    <section>
 
     <!--Webdevelopment -->
-        <div class="col-1-2">
+        <div>
           <h2><a href="webdevelopment.php">
               Webdevelopment
               </a>
@@ -35,7 +35,7 @@
         </div>
 
     <!--Data science -->
-        <div class="col-1-2">
+        <div>
           <h2><a href="data_science.php">
               Data science
               </a>
@@ -53,7 +53,7 @@
         </div>
 
     <!--Game development -->
-        <div class="col-1-2">
+        <div>
           <h2><a href="gamedevelopment.php">
               Game development
               </a>
@@ -70,7 +70,7 @@
         </div>
 
     <!--Programming languages -->
-        <div class="col-1-2">
+        <div>
           <h2><a href="programming_languages.php">
               Programming languages
               </a>
@@ -87,7 +87,7 @@
         </div>
 
     <!--Software development -->
-        <div class="col-1-2">
+        <div>
           <h2><a href="software_development.php">
               Software development
               </a>
@@ -103,7 +103,7 @@
         </div>
 
     <!--Mobile development -->
-        <div class="col-1-2">
+        <div>
           <h2><a href="mobile.php">
               Mobile development
               </a>
