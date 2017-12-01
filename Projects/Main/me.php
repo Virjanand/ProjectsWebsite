@@ -18,10 +18,10 @@
     <div class="container">
       <hr />
       <section class="image-me">This is me before chocolate: <br />
-        <img src="../../images/virjanand.jpg" width="300" /> <br />
+        <img src="../../assets/images/virjanand.jpg" width="300" /> <br />
       </section>
       <section class="image-me">This is me after chocolate: <br />
-        <img src="../../images/panda.jpg" width="300" /> <br />
+        <img src="../../assets/images/panda.jpg" width="300" /> <br />
       </section>
 
 
