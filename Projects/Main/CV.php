@@ -30,7 +30,8 @@
       <h2>What jobs have I done?</h2>
       <p>
         <ul>
-          <li>2015 - Present: Senior Mendix developer at Adoptiq</li>
+          <li>2015 - 2017: Senior Mendix developer at Rigd-Loxia</li>
+          <li>2015 - 2017: Senior Mendix developer at Adoptiq</li>
           <li>2015 - 2015: Mendix consultant at Appronto</li>
           <li>2014 - 2015: Developer at NCIM</li>
           <li>2010 - 2014: PhD candidate at Free University of Amsterdam</li>
