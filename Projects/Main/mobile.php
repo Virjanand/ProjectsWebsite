@@ -15,10 +15,10 @@
 <?php include("../../includes/navigation.html");?>
 
 <div class="container">
-    <section class="grid">
+    <section>
 
   <!--Android -->
-    <div class="col-1-2">
+    <div>
       <h2><a href="../../Projects/LearningAndroid/LearningAndroid.php">
           Learning Android</a></h2>
       <p>Started: Feb 2016 <br />
@@ -33,7 +33,7 @@
     </div>
 
   <!--iOS -->
-    <div class="col-1-2">
+    <div>
       <h2><a href="../../Projects/LearningiOSAppsSwift/LearningiOSAppsSwift.php">
           Learning iOS apps/Swift</a></h2>
       <p>Started: December 2015 <br />

@@ -15,10 +15,10 @@
 <?php include("../../includes/navigation.html");?>
 
 <div class="container">
-    <section class="grid">
+    <section>
 
   <!--Unity3D -->
-    <div class="col-1-2">
+    <div>
       <h2><a href="../../Projects/LearningUnity3D/LearningUnity3D.php">
           Learning Unity 3D</a>
       </h2>
@@ -64,7 +64,7 @@
     </div>
 
   <!--Unreal -->
-    <div class="col-1-2">
+    <div>
       <h2><a href="../../Projects/LearningUnreal/LearningUnreal.php">
           Learning Unreal</a></h2>
       <p>Started: May 2016 <br />

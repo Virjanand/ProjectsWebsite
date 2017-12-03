@@ -15,10 +15,10 @@
 <?php include("../../includes/navigation.html");?>
 
 <div class="container">
-    <section class="grid">
+    <section>
 
   <!--Machine learning -->
-    <div class="col-1-2">
+    <div>
       <h2><a href="../../Projects/MachineLearning/machineLearning.php">
           Machine learning</a></h2>
       <p>Started: June 2016 <br />
@@ -34,7 +34,7 @@
     </div>
 
   <!--Python -->
-    <div class="col-1-2">
+    <div>
       <h2><a href="../../Projects/LearningPython/LearningPython.php">
           Learning Python</a></h2>
       <p>Started: Apr 2016 <br />

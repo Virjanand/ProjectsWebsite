@@ -15,9 +15,10 @@
 <?php include("../../includes/navigation.html");?>
 
 <div class="container">
+  <section>
 
   <!--General Programming -->
-      <div class="col-1-2">
+      <div>
         <h2><a href="../../Projects/LearningGeneralProgramming/LearningGeneralProgramming.php">
             Learning General Programming</a></h2>
         <p>Started: April 2016 <br />
@@ -30,7 +31,7 @@
           </ul>
         </p>
       </div>
-
+    </section>
   </div>
 </div>
 

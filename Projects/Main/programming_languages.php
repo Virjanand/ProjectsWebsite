@@ -15,10 +15,10 @@
 <?php include("../../includes/navigation.html");?>
 
 <div class="container">
-    <section class="grid">
+    <section>
 
   <!--Java -->
-    <div class="col-1-2">
+    <div>
       <h2><a href="../../Projects/LearningJava/LearningJava.php">Learning Java</a></h2>
       <p>Started: Apr 2016 <br />
         <ul>
@@ -32,7 +32,7 @@
     </div>
 
   <!--Javascript -->
-    <div class="col-1-2">
+    <div>
       <h2><a href="../../Projects/LearningJavascript/LearningJavascript.php">
           Learning Javascript</a></h2>
       <p>Started: November 2015 <br />
@@ -62,7 +62,7 @@
     </div>
 
   <!--Python -->
-    <div class="col-1-2">
+    <div>
       <h2><a href="../../Projects/LearningPython/LearningPython.php">
           Learning Python</a></h2>
       <p>Started: Apr 2016 <br />
@@ -82,7 +82,7 @@
     </div>
 
   <!--Ruby on Rails -->
-    <div class="col-1-2">
+    <div>
       <h2><a href="../../Projects/LearningRubyOnRails/LearningRubyOnRails.php">
           Learning Ruby on Rails</a></h2>
       <p>Started: Apr 2016 <br />
@@ -97,7 +97,7 @@
     </div>
 
   <!--HTML & CSS -->
-    <div class="col-1-2">
+    <div>
       <h2><a href="../../Projects/LearningHTMLAndCSS/LearningHTMLAndCSS.php">
           Learning HTML and CSS</a></h2>
       <p>Started: December 2015 <br />

@@ -15,10 +15,10 @@
 <?php include("../../includes/navigation.html");?>
 
 <div class="container">
-    <section class="grid">
+    <section>
 
   <!--Projects Website -->
-    <div class="col-1-2">
+    <div>
       <h2><a href="../../Projects/ProjectsWebsite/ProjectsWebsite.php">
           Projects Website
           </a>
@@ -36,7 +36,7 @@
     </div>
 
   <!--Webdevelopment -->
-    <div class="col-1-2">
+    <div>
       <h2><a href="../../Projects/LearningWebdevelopment/LearningWebdevelopment.php">
           Learning Webdevelopment</a></h2>
       <p>Started: December 2015 <br />
@@ -51,7 +51,7 @@
     </div>
 
   <!--HTML & CSS -->
-    <div class="col-1-2">
+    <div>
       <h2><a href="../../Projects/LearningHTMLAndCSS/LearningHTMLAndCSS.php">
           Learning HTML and CSS</a></h2>
       <p>Started: December 2015 <br />
@@ -74,7 +74,7 @@
     </div>
 
   <!--Mendix -->
-    <div class="col-1-2">
+    <div>
       <h2><a href="../../Projects/RelearningMendix/RelearningMendix.php">
           (Re)Learning Mendix
           </a>
