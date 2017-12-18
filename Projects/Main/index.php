@@ -75,6 +75,7 @@
               Programming languages
               </a>
           </h2>
+          <h4>Goal: Get familiar with several programming languages</h4>
           <p>Started: Januari 2017 <br />
             <ul>
               <li>
@@ -96,15 +97,15 @@
           <p>Started: Januari 2017 <br />
             <ul>
               <li>
+                Harold Abelson et al.
+                - Structure and interpretation of computer programs<br />
+                Started: 23 October 2017 <br />
+              </li>
+              <li>
                 Matthias Felleisen et al.
                 - How to design programs<br />
                 Started: 23 April 2016 <br />
                 Paused: December 2016
-              </li>
-              <li>
-                Harold Abelson et al.
-                - Structure and interpretation of computer programs<br />
-                Started: 23 October 2017 <br />
               </li>
             </ul>
           </p>
