@@ -92,11 +92,19 @@
               Software development
               </a>
           </h2>
+          <h4>Goal: Learn general software development principles</h4>
           <p>Started: Januari 2017 <br />
             <ul>
               <li>
-                Hunt and Thomas - The Pragmatic programmer<br />
-                Started: 1 Januari 2017 <br />
+                Matthias Felleisen et al.
+                - How to design programs<br />
+                Started: 23 April 2016 <br />
+                Paused: December 2016
+              </li>
+              <li>
+                Harold Abelson et al.
+                - Structure and interpretation of computer programs<br />
+                Started: 23 October 2017 <br />
               </li>
             </ul>
           </p>
@@ -108,16 +116,19 @@
               Mobile development
               </a>
           </h2>
+          <h4>Goal: Learn how to build apps for iOS and Android</h4>
           <p>Started: Januari 2016 <br />
-			Paused: June 2016
+			       Paused: June 2016
             <ul>
               <li>
                 Android<br />
                 Started: 1 Januari 2016 <br />
+                Paused: June 2016
               </li>
               <li>
                 iOS<br />
                 Started: 1 November 2015 <br />
+                Paused: February 2016
               </li>
             </ul>
           </p>
