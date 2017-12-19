@@ -76,12 +76,29 @@
               </a>
           </h2>
           <h4>Goal: Get familiar with several programming languages</h4>
-          <p>Started: Januari 2017 <br />
+          <p>Started: November 2015 <br />
             <ul>
               <li>
-                Deitel and Deitel - How to program Java<br />
-                Started: 1 Januari 2017 <br />
-                Technologies: Java
+                JavaScript<br />
+                Started: November 2015 <br />
+              </li>
+              <li>
+                Java<br />
+                Started: April 2016 <br />
+              </li>
+              <li>
+                HTML and CSS<br />
+                Started: December 2015 <br />
+              </li>
+              <li>
+                Python<br />
+                Started: April 2016 <br />
+                Paused: February 2017
+              </li>
+              <li>
+                Ruby<br />
+                Started: April 2016 <br />
+                Paused: December 2016
               </li>
             </ul>
           </p>
