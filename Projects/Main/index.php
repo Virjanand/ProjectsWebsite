@@ -58,12 +58,17 @@
               Game development
               </a>
           </h2>
-          <p>Started: Januari 2016 <br />
+          <h4>Goal: Create some simple computer games</h4>
+          <p>Started: December 2015 <br />
             <ul>
               <li>
                 Udemy Unreal course<br />
                 Started: 1 Januari 2017 <br />
-                Technologies: C++ &amp; Unreal
+              </li>
+              <li>
+                Unity tutorials<br />
+                Started: 7 December 2015 <br />
+                Finished: 6 July 2016
               </li>
             </ul>
           </p>
