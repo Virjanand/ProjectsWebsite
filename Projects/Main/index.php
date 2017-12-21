@@ -40,13 +40,19 @@
               Data science
               </a>
           </h2>
+          <h4>Goal: Understand what data science is about</h4>
           <p>Started: June 2016 <br />
-			Paused: Feb 2017
+			       Paused: Feb 2017
             <ul>
+              <li>
+                Coursera applied data science with Python<br />
+                Started: 1 December 2016 <br />
+                Paused: February 2017
+              </li>
               <li>
                 Coursera machine learning course<br />
                 Started: 29 June 2016 <br />
-                Technologies: Octave
+                Finished: 6 Januari 2017
               </li>
             </ul>
           </p>
