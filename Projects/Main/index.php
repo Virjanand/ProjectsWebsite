@@ -23,12 +23,26 @@
               Webdevelopment
               </a>
           </h2>
+          <h4>Goal: Learn web development in various frameworks</h4>
           <p>Started: January 2016 <br />
             <ul>
               <li><a href="http://virjanand.com/ProjectsWebsite/Projects/Main/index.php">
                 Website with projects overview</a><br />
                 Started: 3 January 2016 <br />
-                Technologies: HTML &amp; CSS
+              </li>
+              <li>
+                Learning Mendix<br />
+                Started: January 2016 <br />
+              </li>
+              <li>
+                Web development course on Udemy by Rob Percival<br />
+                Started: 1 January 2016 <br />
+                Finished: December 2016
+              </li>
+              <li>
+                HTML and CSS<br />
+                Started: 16 August 2015 <br />
+                Finished: 31 August 2015
               </li>
             </ul>
           </p>
